@@ -1,0 +1,6 @@
+{
+  "name": "Dairy Management Suite",
+  "description": "Comprehensive full-stack dairy management suite with responsive web administration, simulated Ionic Angular mobile worker application, and predictive AI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
